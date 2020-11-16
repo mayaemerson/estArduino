@@ -1,0 +1,6 @@
+{
+    "sketch": "Temp2.ino",
+    "port": "/dev/tty.usbmodem6401",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560"
+}
